@@ -1,0 +1,94 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+}
+
+<div class="text-center">
+    <h1 class="display-4">Consumindo API</h1>
+
+</div>
+<div class="row">
+
+    <!-- Vendas Período -->
+    <div class="col-lg-3" id="elemento-1">
+        <div class="card mini-stat bg-primary">
+            <div class="card-body mini-stat-img">
+                <div class="mini-stat-icon">
+                    <i class="mdi mdi-currency-usd float-right"></i>
+                </div>
+                <div class="text-white text-center">
+
+                    <a class="text-white" asp-area="" asp-controller="Sala" asp-action="ListarSala">
+                        <h6 class="text-uppercase mb-3">Cadastro de Salas</h6>
+                    </a>
+                   
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="col-lg-3" id="elemento-2">
+        <div class="card mini-stat bg-primary">
+            <div class="card-body mini-stat-img">
+                <div class="mini-stat-icon">
+                    <i class="mdi mdi-tag-text-outline float-right"></i>
+                </div>
+                <div class="text-white text-center">
+                    <a class="text-white" asp-area="" asp-controller="Sala" asp-action="ListarSala">
+                        <h6 class="text-uppercase mb-3">Cadastro de Filmes/h6>
+                    </a>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="col-lg-3" id="elemento-3">
+        <div class="card mini-stat bg-primary">
+            <div class="card-body mini-stat-img">
+                <div class="mini-stat-icon">
+                    <i class="mdi mdi-briefcase-check float-right"></i>
+                </div>
+                <div class="text-white text-center">
+
+                    <a class="text-white" asp-area="" asp-controller="Sala" asp-action="ListarSala">
+                        <h6 class="text-uppercase mb-3">Cadastro de Servidor</h6>
+                    </a>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="col-lg-3" id="elemento-4">
+        <div class="card mini-stat bg-primary">
+            <div class="card-body mini-stat-img">
+                <div class="mini-stat-icon">
+                    <i class="mdi mdi-tshirt-crew float-right"></i>
+                </div>
+                <div class="text-white text-center">
+
+                    <a class="text-white" asp-area="" asp-controller="Sala" asp-action="ListarSala">
+                        <h6 class="text-uppercase mb-3">Cadastro de Video</h6>
+                    </a>
+                </div>
+            </div>
+        </div>
+  
+  
+</div>
+
+<script>
+    ContarSala();
+
+        function ContarSala() {
+            $.ajax({
+                method: 'get',
+                dataType: 'json',
+                url: '/Sala/ContarSala',
+                contentType: 'application/json',
+                success: function (retorno) {
+                    LoadingContagem('#ValorCard-1', parseFloat(retorno).toFixed(2), 2);
+                   
+                },
+                error: function (err) {
+                    console.log(err.responseText);
+                }
+            });
+        }
+
+</script>

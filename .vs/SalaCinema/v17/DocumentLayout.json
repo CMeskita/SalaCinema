@@ -1,0 +1,211 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\danie\\source\\repos\\SalaCinema\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D9A9C7F3-794E-41F1-914F-DD91DD36FD3D}|SalaCinema\\SalaCinema.csproj|c:\\users\\danie\\source\\repos\\salacinema\\salacinema\\models\\saladto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9A9C7F3-794E-41F1-914F-DD91DD36FD3D}|SalaCinema\\SalaCinema.csproj|solutionrelative:salacinema\\models\\saladto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9A9C7F3-794E-41F1-914F-DD91DD36FD3D}|SalaCinema\\SalaCinema.csproj|c:\\users\\danie\\source\\repos\\salacinema\\salacinema\\views\\salacontroller\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D9A9C7F3-794E-41F1-914F-DD91DD36FD3D}|SalaCinema\\SalaCinema.csproj|solutionrelative:salacinema\\views\\salacontroller\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9A9C7F3-794E-41F1-914F-DD91DD36FD3D}|SalaCinema\\SalaCinema.csproj|c:\\users\\danie\\source\\repos\\salacinema\\salacinema\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D9A9C7F3-794E-41F1-914F-DD91DD36FD3D}|SalaCinema\\SalaCinema.csproj|solutionrelative:salacinema\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9A9C7F3-794E-41F1-914F-DD91DD36FD3D}|SalaCinema\\SalaCinema.csproj|c:\\users\\danie\\source\\repos\\salacinema\\salacinema\\controllers\\salacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9A9C7F3-794E-41F1-914F-DD91DD36FD3D}|SalaCinema\\SalaCinema.csproj|solutionrelative:salacinema\\controllers\\salacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9A9C7F3-794E-41F1-914F-DD91DD36FD3D}|SalaCinema\\SalaCinema.csproj|c:\\users\\danie\\source\\repos\\salacinema\\salacinema\\models\\filmesdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9A9C7F3-794E-41F1-914F-DD91DD36FD3D}|SalaCinema\\SalaCinema.csproj|solutionrelative:salacinema\\models\\filmesdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9A9C7F3-794E-41F1-914F-DD91DD36FD3D}|SalaCinema\\SalaCinema.csproj|c:\\users\\danie\\source\\repos\\salacinema\\salacinema\\models\\servvidordto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9A9C7F3-794E-41F1-914F-DD91DD36FD3D}|SalaCinema\\SalaCinema.csproj|solutionrelative:salacinema\\models\\servvidordto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9A9C7F3-794E-41F1-914F-DD91DD36FD3D}|SalaCinema\\SalaCinema.csproj|c:\\users\\danie\\source\\repos\\salacinema\\salacinema\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D9A9C7F3-794E-41F1-914F-DD91DD36FD3D}|SalaCinema\\SalaCinema.csproj|solutionrelative:salacinema\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9A9C7F3-794E-41F1-914F-DD91DD36FD3D}|SalaCinema\\SalaCinema.csproj|c:\\users\\danie\\source\\repos\\salacinema\\salacinema\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9A9C7F3-794E-41F1-914F-DD91DD36FD3D}|SalaCinema\\SalaCinema.csproj|solutionrelative:salacinema\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9A9C7F3-794E-41F1-914F-DD91DD36FD3D}|SalaCinema\\SalaCinema.csproj|c:\\users\\danie\\source\\repos\\salacinema\\salacinema\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9A9C7F3-794E-41F1-914F-DD91DD36FD3D}|SalaCinema\\SalaCinema.csproj|solutionrelative:salacinema\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9A9C7F3-794E-41F1-914F-DD91DD36FD3D}|SalaCinema\\SalaCinema.csproj|c:\\users\\danie\\source\\repos\\salacinema\\salacinema\\service\\isalaservicehttpclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9A9C7F3-794E-41F1-914F-DD91DD36FD3D}|SalaCinema\\SalaCinema.csproj|solutionrelative:salacinema\\service\\isalaservicehttpclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9A9C7F3-794E-41F1-914F-DD91DD36FD3D}|SalaCinema\\SalaCinema.csproj|c:\\users\\danie\\source\\repos\\salacinema\\salacinema\\service\\salaservicehttpclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9A9C7F3-794E-41F1-914F-DD91DD36FD3D}|SalaCinema\\SalaCinema.csproj|solutionrelative:salacinema\\service\\salaservicehttpclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{f2bd8fb8-fc94-3dae-a733-fd993c73cc87}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ServvidorDto.cs",
+              "DocumentMoniker": "C:\\Users\\danie\\source\\repos\\SalaCinema\\SalaCinema\\Models\\ServvidorDto.cs",
+              "RelativeDocumentMoniker": "SalaCinema\\Models\\ServvidorDto.cs",
+              "ToolTip": "C:\\Users\\danie\\source\\repos\\SalaCinema\\SalaCinema\\Models\\ServvidorDto.cs",
+              "RelativeToolTip": "SalaCinema\\Models\\ServvidorDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-30T23:39:06.996Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FilmesDto.cs",
+              "DocumentMoniker": "C:\\Users\\danie\\source\\repos\\SalaCinema\\SalaCinema\\Models\\FilmesDto.cs",
+              "RelativeDocumentMoniker": "SalaCinema\\Models\\FilmesDto.cs",
+              "ToolTip": "C:\\Users\\danie\\source\\repos\\SalaCinema\\SalaCinema\\Models\\FilmesDto.cs",
+              "RelativeToolTip": "SalaCinema\\Models\\FilmesDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-30T23:38:49.006Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\danie\\source\\repos\\SalaCinema\\SalaCinema\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "SalaCinema\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\danie\\source\\repos\\SalaCinema\\SalaCinema\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "SalaCinema\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAABcAAAAAAAAAAAAAAEAAAABKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-29T13:30:40.762Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ISalaServiceHttpClient.cs",
+              "DocumentMoniker": "C:\\Users\\danie\\source\\repos\\SalaCinema\\SalaCinema\\Service\\ISalaServiceHttpClient.cs",
+              "RelativeDocumentMoniker": "SalaCinema\\Service\\ISalaServiceHttpClient.cs",
+              "ToolTip": "C:\\Users\\danie\\source\\repos\\SalaCinema\\SalaCinema\\Service\\ISalaServiceHttpClient.cs",
+              "RelativeToolTip": "SalaCinema\\Service\\ISalaServiceHttpClient.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-29T00:05:36.343Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "SalaServiceHttpClient.cs",
+              "DocumentMoniker": "C:\\Users\\danie\\source\\repos\\SalaCinema\\SalaCinema\\Service\\SalaServiceHttpClient.cs",
+              "RelativeDocumentMoniker": "SalaCinema\\Service\\SalaServiceHttpClient.cs",
+              "ToolTip": "C:\\Users\\danie\\source\\repos\\SalaCinema\\SalaCinema\\Service\\SalaServiceHttpClient.cs",
+              "RelativeToolTip": "SalaCinema\\Service\\SalaServiceHttpClient.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAWwBcAAABQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-29T00:04:38.694Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\danie\\source\\repos\\SalaCinema\\SalaCinema\\Views\\SalaController\\Index.cshtml",
+              "RelativeDocumentMoniker": "SalaCinema\\Views\\SalaController\\Index.cshtml",
+              "ToolTip": "C:\\Users\\danie\\source\\repos\\SalaCinema\\SalaCinema\\Views\\SalaController\\Index.cshtml",
+              "RelativeToolTip": "SalaCinema\\Views\\SalaController\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-28T23:37:53.082Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SalaDto.cs",
+              "DocumentMoniker": "C:\\Users\\danie\\source\\repos\\SalaCinema\\SalaCinema\\Models\\SalaDto.cs",
+              "RelativeDocumentMoniker": "SalaCinema\\Models\\SalaDto.cs",
+              "ToolTip": "C:\\Users\\danie\\source\\repos\\SalaCinema\\SalaCinema\\Models\\SalaDto.cs",
+              "RelativeToolTip": "SalaCinema\\Models\\SalaDto.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-28T22:18:37.049Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "SalaController.cs",
+              "DocumentMoniker": "C:\\Users\\danie\\source\\repos\\SalaCinema\\SalaCinema\\Controllers\\SalaController.cs",
+              "RelativeDocumentMoniker": "SalaCinema\\Controllers\\SalaController.cs",
+              "ToolTip": "C:\\Users\\danie\\source\\repos\\SalaCinema\\SalaCinema\\Controllers\\SalaController.cs",
+              "RelativeToolTip": "SalaCinema\\Controllers\\SalaController.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAYwCIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-28T22:19:27.768Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\danie\\source\\repos\\SalaCinema\\SalaCinema\\Program.cs",
+              "RelativeDocumentMoniker": "SalaCinema\\Program.cs",
+              "ToolTip": "C:\\Users\\danie\\source\\repos\\SalaCinema\\SalaCinema\\Program.cs",
+              "RelativeToolTip": "SalaCinema\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAABMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-29T13:28:58.876Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\danie\\source\\repos\\SalaCinema\\SalaCinema\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "SalaCinema\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\danie\\source\\repos\\SalaCinema\\SalaCinema\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "SalaCinema\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAzwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-29T13:30:26.898Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\danie\\source\\repos\\SalaCinema\\SalaCinema\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "SalaCinema\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\danie\\source\\repos\\SalaCinema\\SalaCinema\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "SalaCinema\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAABwAAAB8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-28T22:20:26.47Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
